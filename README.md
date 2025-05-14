@@ -1,4 +1,4 @@
-## Hi there 👋
+## jguan
 
 <!--
 **jg585Username/jg585Username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
